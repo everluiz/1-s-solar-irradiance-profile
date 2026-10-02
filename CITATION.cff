@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "One-second solar irradiance profile measured at UTFPR Pato Branco, Brazil"
+authors:
+  - family-names: Pagnoncelli
+    given-names: Everton Luiz
+    affiliation: "Federal University of Technology - Paraná (UTFPR)"
+  - family-names: Carati
+    given-names: Emerson Giovani
+    affiliation: "Federal University of Technology - Paraná (UTFPR)"
+version: "1.0"
+license: CC-BY-4.0
+keywords:
+  - solar irradiance
+  - photovoltaic
+  - 1-second resolution
+  - power smoothing
